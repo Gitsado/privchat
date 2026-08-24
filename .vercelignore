@@ -1,0 +1,12 @@
+.env*
+!.env.example
+.git
+.next
+out
+node_modules
+.pnpm-store
+coverage
+outputs
+work
+*.log
+*.tsbuildinfo

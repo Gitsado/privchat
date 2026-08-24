@@ -1,0 +1,21 @@
+{
+  "name": "PrivChat — Təhlükəsiz mesajlaşma",
+  "short_name": "PrivChat",
+  "description": "Ucdan-uca şifrəli şəxsi mesajlaşma tətbiqi.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#080913",
+  "theme_color": "#080913",
+  "lang": "az",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["social", "productivity", "utilities"]
+}
